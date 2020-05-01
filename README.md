@@ -32,7 +32,7 @@ To clone and run this application, you'll need [Node.js](https://nodejs.org/en/)
 
 **Clone this repository:**
 <br>
-`git clone https://github.com/MisaelSantos/OmniStack11`
+`git clone https://github.com/MisaelSantos/Spotify-Api-Albums-Search-by-Artist`
 
 **Go into the repository /backend:**
 <br>
