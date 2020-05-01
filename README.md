@@ -68,3 +68,39 @@ To clone and run this application, you'll need [Node.js](https://nodejs.org/en/)
 </p>
 
 <h2> :runner: Run </h2>
+
+**node app.js**
+
+`ReactApplications\Spotify Search Album React-Node\backend\authorization_code>`
+
+<p align = "center">
+<img width = "800px" src = "https://github.com/MisaelSantos/Spotify-Api-Albums-Search-by-Artist/blob/master/Images-Exemple/server.png">
+</p>
+
+**npm start**
+
+`ReactApplications\Spotify Search Album React-Node\frontend>`
+
+<p align = "center">
+<img width = "800px" src = "https://github.com/MisaelSantos/Spotify-Api-Albums-Search-by-Artist/blob/master/Images-Exemple/app.png">
+</p>
+
+**Login with spotify account in localhost:8888**
+
+<p align = "center">
+<img width = "800px" src = "https://github.com/MisaelSantos/Spotify-Api-Albums-Search-by-Artist/blob/master/Images-Exemple/login%20spotify.png">
+</p>
+
+**Congratulations**
+
+<p align = "center">
+<img width = "800px" src = "https://github.com/MisaelSantos/Spotify-Api-Albums-Search-by-Artist/blob/master/Images-Exemple/finish.png">
+</p>
+
+<h2> :memo: Licence </h2>
+  
+MIT Licence. See [LICENSE](https://github.com/MisaelSantos/Spotify-Api-Albums-Search-by-Artist/blob/master/LICENSE) for more details.
+
+<p align = "center">
+  :sunglasses:<i>Make with ♥ by Misael Santos</i> <strong>2020</strong> :sunglasses: 
+</p>
