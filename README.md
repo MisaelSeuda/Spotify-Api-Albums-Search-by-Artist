@@ -1,4 +1,4 @@
-# Spotify API Albums Search by Artist
+# Spotify API Albums Search by Artist :notes:
 
 <p align = "center">
 <img width = "500px" src = "https://github.com/MisaelSantos/Spotify-Api-Albums-Search-by-Artist/blob/master/Images-Exemple/Search%20Artist.png">
